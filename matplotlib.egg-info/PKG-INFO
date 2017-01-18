@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: matplotlib
+Version: 1.1.0
+Summary: matplotlib for pip installation
+Home-page: https://github.com/Nishanth-PrabhuSwamy/matplotlib
+Author: Nishanth-PrabhuSwamy + matplotlib
+Author-email: nishanth.prabhu.68@gmail.com
+License: MIT
+Description: matplotlib for pip installation
+Keywords: sample setuptools development
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
